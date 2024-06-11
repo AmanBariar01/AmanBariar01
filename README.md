@@ -1,3 +1,4 @@
+![logo](https://github.com/AmanBariar01/AmanBariar01/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aman Bariar</h1>
 <h3 align="center">A Dedicated Software Engineer from India, crafting elegant solutions with code.</h3>
 
