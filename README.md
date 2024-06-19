@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Cognizant Technologies**
 
-- 👨‍💻 All of my projects are available at [https://amanbariar.portfolio/](https://stupendous-starlight-2347a6.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://amanbariar.portfolio/](https://amanbariar-portfolio.netlify.app/)
 
 - 📫 How to reach me **bariaraman22@gmail.com**
 
